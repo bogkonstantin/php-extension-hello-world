@@ -1,7 +1,7 @@
 # Base PHP extension in C language with VSCode Debugger setup
 
 Clone this repository and navigate to the directory.  
-Want to learn more about PHP extension development? Read more [here](https://bogomolov.tech/php-extension-development/).
+Want to learn more about PHP extension development? Read more [here](https://medium.com/@bogkonstantin/php-extension-create-a-simple-extension-and-set-up-development-environment-6434e9b89103).
 
 ### Build image
 
